@@ -43,7 +43,7 @@ Adding a skill means adding one file and one registry line; the session and the 
 
 ## The robot
 
-![Me with the ANYmal D at CROB](media/foto_yo_con_robot.jpg)
+<img src="media/foto_yo_con_robot.jpg" alt="Me with the ANYmal D at CROB" width="350">
 
 *Me with the ANYmal D at the USP Center for Robotics (CROB).*
 
