@@ -39,6 +39,12 @@ flowchart LR
 
 Adding a skill means adding one file and one registry line; the session and the interpreter do not change.
 
+## The robot
+
+![Me with the ANYmal D at CROB](media/foto_yo_con_robot.jpg)
+
+*Me with the ANYmal D at the USP Center for Robotics (CROB).*
+
 ## Results
 
 - In 12 of 14 logged navigation runs the robot ended within 0.4 m of a table's parking pose (simulator ground-truth evaluation log).
