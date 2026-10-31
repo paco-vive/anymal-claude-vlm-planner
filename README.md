@@ -2,7 +2,9 @@
 
 ![demo](media/demo.gif)
 
-**Full video (30-60 s):** [Watch on YouTube](https://www.youtube.com/watch?v=YOUTUBE_ID)
+![demo: navigation and cube lift](media/demo1.gif)
+
+*Second demo: the model walks to the table and lifts the cube.*
 
 **Problem.** Let a vision-language model drive an ANYmal D in simulation using only the robot camera. The model does not control joints: it chooses skills, and trained policies or PD controllers execute them.
 
@@ -48,6 +50,6 @@ Adding a skill means adding one file and one registry line; the session and the 
 ## Results
 
 - In 12 of 14 logged navigation runs the robot ended within 0.4 m of a table's parking pose (simulator ground-truth evaluation log).
-- Lifting the cube through the model has not worked reliably yet (4 logged attempts: not grasped); next step.
+- In the second demo (above) the model navigated to the table and lifted the cube successfully. Lifting is not yet reliable across all attempts; improving it is the next step.
 
 > *Code is confidential (USP Center for Robotics - CROB) and cannot be shared. Available upon request with lab approval.*
